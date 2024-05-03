@@ -2570,7 +2570,7 @@
    {
       "id":"f59227bf-7b4b-41e7-948a-d3d1c9ead45b",
       "username":"valmontechno",
-      "pixels":0,
+      "pixels":20,
       "bombs":0
    },
    {
@@ -11163,6 +11163,66 @@
       "id":"f8b0cbe3-1371-4089-b3a0-40178f6605ff",
       "username":"leban10",
       "pixels":5,
+      "bombs":0
+   },
+   {
+      "id":"8a154406-b77a-4102-923c-1ebe9be65415",
+      "username":"yazerty",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"f8449bea-3620-4bae-887f-465c3721f9b1",
+      "username":"gaspard1234",
+      "pixels":5,
+      "bombs":0
+   },
+   {
+      "id":"7001a373-b791-41dd-95ed-096efc57615b",
+      "username":"deus",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"d68c15e0-9619-441c-97c6-cfc8edd0be37",
+      "username":"kelqu_1",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"e252e7c7-3806-4371-a54b-a7b718c2f62d",
+      "username":"epyi",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"0973e538-4e0c-4c20-809e-3c4682c75662",
+      "username":"flogaming555",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"753d49ae-eac6-40e5-8b5d-532f74eeff5c",
+      "username":"noah2coco",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"da40f283-4841-4e53-bb27-82fe3685c0c5",
+      "username":"altorru",
+      "pixels":5,
+      "bombs":0
+   },
+   {
+      "id":"19382371-4de6-4418-8327-8cbdedffbfcc",
+      "username":"trax",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"c1e99e74-e517-4c59-88de-4e09dccf2118",
+      "username":"figurant16",
+      "pixels":0,
       "bombs":0
    }
 ]
