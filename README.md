@@ -1,6 +1,6 @@
 # PixelBoard Data 
 
-various data from [a website](https://www.pixelboard.fr/), including information about users, pixels, and URLs inside the pixels.
+various data from [a website](https://www.pixelboard.fr/) (French), including information about users, pixels, and URLs inside the pixels.
 
 YOU CAN REQUESTS DATA TO BE REMOVED !
 
