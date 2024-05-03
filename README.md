@@ -4,7 +4,11 @@ various data from [a website](https://www.pixelboard.fr/) (French), including in
 
 YOU CAN REQUESTS DATA TO BE REMOVED !
 
-# EVERY DATA WERE ACCESSIBLE !! Open an issues with username in the website
+Open an issues with username in the website if you want daa to be deleted
+
+
+# EVERY DATA WERE ACCESSIBLE !! 
+
 
 ## Features
 
