@@ -17,7 +17,7 @@ YOU CAN REQUESTS DATA TO BE REMOVED !
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/website-data-gatherer.git```
+   git clone https://github.com/TheCuteOwl/PixelBoard-FR-Data.git```
 
 Nothing more !
 
