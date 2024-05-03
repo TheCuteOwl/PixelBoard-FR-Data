@@ -2,7 +2,9 @@
 
 various data from [a website](https://www.pixelboard.fr/), including information about users, pixels, and URLs inside the pixels.
 
-# EVERY DATA WERE ACCESSIBLE !!
+YOU CAN REQUESTS DATA TO BE REMOVED !
+
+# EVERY DATA WERE ACCESSIBLE !! Open an issues with username in the website
 
 ## Features
 
