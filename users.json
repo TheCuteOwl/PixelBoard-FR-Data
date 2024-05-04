@@ -7382,7 +7382,7 @@
    {
       "id":"91dcf38a-e898-44aa-a5b8-3de24dd484af",
       "username":"sallie",
-      "pixels":0,
+      "pixels":20,
       "bombs":0
    },
    {
@@ -9894,12 +9894,6 @@
       "bombs":0
    },
    {
-      "id":"985863a6-8856-44d4-bf11-f76ecb23f784",
-      "username":"superatraction",
-      "pixels":8,
-      "bombs":0
-   },
-   {
       "id":"34a903ea-0346-4891-8db7-4c2be5757832",
       "username":"trachymanrecords",
       "pixels":5,
@@ -9927,6 +9921,12 @@
       "id":"5497a5d1-240c-47b8-af4f-f6d933b6057a",
       "username":"about",
       "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"985863a6-8856-44d4-bf11-f76ecb23f784",
+      "username":"superatraction",
+      "pixels":13,
       "bombs":0
    },
    {
@@ -11414,6 +11414,24 @@
    {
       "id":"f8f46cae-9b7c-4eba-a6bb-eb0c165f3a6e",
       "username":"first_kiry",
+      "pixels":5,
+      "bombs":0
+   },
+   {
+      "id":"e89b419c-6c79-4682-8dd4-15ed4f7cadd5",
+      "username":"amassif",
+      "pixels":5,
+      "bombs":0
+   },
+   {
+      "id":"be6e4088-62a3-4c67-8814-ee158cf007f0",
+      "username":"307",
+      "pixels":0,
+      "bombs":0
+   },
+   {
+      "id":"d6d52f7a-de0c-4982-8ff0-0956f730d330",
+      "username":"tomito",
       "pixels":5,
       "bombs":0
    }
